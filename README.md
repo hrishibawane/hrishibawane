@@ -1,1 +1,1 @@
-![Profile Banner](banner.png)
+![Profile Banner](https://github.com/hrishibawane/hrishibawane/blob/master/banner.png)
