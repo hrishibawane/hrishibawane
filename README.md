@@ -2,4 +2,5 @@
 <br />
 <img src='https://github-readme-stats.vercel.app/api?username=hrishibawane&show_icons=true&theme=tokyonight'/>
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hrishibawane&repo=distributed-data-storage)](https://github.com/hrishibawane/distributed-data-storage)
 
